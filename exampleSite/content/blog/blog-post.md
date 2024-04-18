@@ -38,6 +38,7 @@ The same is true as we experience the emotional sensation of
 stress from our first instances of social rejection ridicule. We quickly learn to fear and thus
 automatically.
 
+[All symptoms]{https://allsymptoms.org}
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi
 laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in,
